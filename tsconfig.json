@@ -21,6 +21,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/components/cities_data.jsx", "app/create_session/page.tsx", "app/city/[id]/page.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/components/cities_data.jsx", "app/create_session/page.js", "app/city/[id]/page.js"],
   "exclude": ["node_modules"]
 }
